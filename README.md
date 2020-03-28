@@ -1,3 +1,3 @@
 # Project1
 
-[Install]#Install
+[Install](Install)
