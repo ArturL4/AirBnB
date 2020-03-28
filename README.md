@@ -11,3 +11,18 @@
 
 There should be no necessary libraries to run this code, except those of the standard distribution of Anaconda, like
 pandas, numpy, matplotlib, sklearn and seaborn. The code should run without problems using Python versions 3.*.
+
+## Project Motivation <a name="motivation"></a>
+
+
+
+
+
+
+## File Description <a name="files"></a>
+
+
+## Results <a name="results"></a>
+
+
+## Licensing, Authors, Ackowlegements <a name="licensing"></a>
