@@ -9,7 +9,7 @@
 
 ## Installation <a name= "installation"></a>
 
-There should not be necessity to install any further libraries, only the standard libraries given with the Anaconda Distribution.
+There is no necessity to install any further libraries, only the standard libraries given with the Anaconda Distribution.
 There shouldn't be any problems with the code using a Python version 3.*.
 
 ## Project Motivation <a name="motivation"></a>
