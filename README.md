@@ -14,10 +14,9 @@ Furthermore you need to install the PyTorch Framework as described [here](https:
 
 ## Project Motivation <a name="motivation"></a>
 
-
-
-
-
+Training a Neural Network with static Hyperparameter Configurations can be very time consuming and might don't even result in good accuracies.<br>
+The idea behind OTO is to actually give the Network itself the oppurtinity to decide whether to change the Hyperparameters.<br>
+We believe that giving the Network a variety of Hyperparameters while training it is possible to reduce the error and enhance the training time.
 
 ## File Description <a name="files"></a>
 
