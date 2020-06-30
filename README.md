@@ -8,9 +8,7 @@
 5. [Licensing, Authors, and Acknowlegements](#licensing)
 
 ## Installation <a name= "installation"></a>
-
-There is no necessity to install any further libraries, only the standard libraries given with the Anaconda Distribution.
-There shouldn't be any problems with the code using a Python version 3.*.
+To use OTO it is neccessary to install the [PyTorch Framework](!https://pytorch.org/get-started/locally/)
 
 ## Project Motivation <a name="motivation"></a>
 
