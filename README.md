@@ -8,7 +8,7 @@
 5. [Licensing, Authors, and Acknowlegements](#licensing)
 
 ## Installation <a name= "installation"></a>
-To use OTO the standard libraries given with the Anaconda Distribution.
+To use OTO the standard libraries given with the Anaconda Distribution.<br>
 Furthermore you need to install the PyTorch Framework as described [here](https://pytorch.org/get-started/locally/).
 
 
