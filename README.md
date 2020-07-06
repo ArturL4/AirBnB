@@ -1,4 +1,4 @@
-# Project 1
+# AirBnB 
 
 ### Table of Contents
 1. [Installation](#installation)
